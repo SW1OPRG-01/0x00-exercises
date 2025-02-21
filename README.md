@@ -42,10 +42,10 @@ We asked a chatbot the following “create a prototype of a function in C++ for 
 6. Copy the prototype of the function into the file `throw_parabola.h`. Above the prototype, include a comment describing the parameters – one parameter per line
 
 7. Using the formula found by ChatGPT in step 1, implement the function in the file
-`throw_parabola.cpp`. **DO NOT USE A CHATBOT FOR THIS**
+`throw_parabola.cpp`. <br>**DO NOT USE A CHATBOT FOR THIS**
 
 8) Use a chatbot to create a main function that tests the function with the following
-parameters: start speed $5 \frac{m}{s}$, an angle of $45 \deg$ and a mass of $100 kg$. Is the result of your function as expected? (what was expected?)
+parameters: start speed $5\frac{m}{s}$, an angle of $45 \deg$ and a mass of $100 kg$. Is the result of your function as expected? (what was expected?)
 
 ## Exercise 4
 The following functions are to be implemented as protypes in `geometrics.h` file and as fully implemented functions in the `geometrics.cpp`:
