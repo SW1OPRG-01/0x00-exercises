@@ -27,15 +27,10 @@ _**Hint** Length is defined as $\sqrt{x^2+y^2}$ and can be found in the `cmath` 
 ## Exercise 3
 1. Use a chatbot to find a formula that describes a throw of a
 mass with start speed $v_0$, and angle $\alpha$ and under the influence of the uniform gravitational field given by $g=9.82\frac{m}{s^2}$
-
 2. Use ChatGPT to make a graph using a start speed $5\frac{m}{s}$, an angle of $45\deg$ and a mass of $100 kg$
-
 3. Use a chatbot to make a graph using a start speed of $5 \frac{m}{s}$, varying the angle from $5$ to $80$ $\deg$ in steps of five and a mass og $100 kg$
-
-4. Describe to your fellow student what the parameters are – how many, what do each of them represent, what is the type of the value and what is the result (what does it represent and what type is it). **DO THIS BEFORE NEXT STEP** – the purpose is that you learn something NOT the answer in itself
-
+4. Describe to your fellow student what the parameters are – how many, what do each of them represent, what is the type of the value and what is the result (what does it represent and what type is it).<br>**DO THIS BEFORE NEXT STEP** – the purpose is that you learn something NOT the answer in itself
 5. Use a chatbot to do the same as in the previous step (4). and compare the descriptions
-
 We asked a chatbot the following “create a prototype of a function in C++ for the projectile motion (vertical distance) at a given horizontal distance”. It gave us the following:
 `double calculateVerticalDistance(double v0, double theta, double g, double x);` relate the parameters of the function to the description you made in step 4
 
